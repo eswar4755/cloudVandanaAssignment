@@ -1,2 +1,2 @@
 # cloudVandanaAssignment
-Solutions of Cloud Vandana Assignment questions
+Solutions of Cloud Vandana Assignment Questions
